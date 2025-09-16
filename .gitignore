@@ -1,0 +1,10 @@
+/package-lock.json
+/node_modules
+/.idea
+/dist
+/test_widget/package-lock.json
+/test_widget/node_modules
+/build_publish_npmjs.ps1
+/.npmrc
+/build.ps1
+/build_publish.ps1
